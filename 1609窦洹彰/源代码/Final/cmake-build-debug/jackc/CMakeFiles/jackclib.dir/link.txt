@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libjackclib.a  CMakeFiles/jackclib.dir/src/Analyzer.cpp.o CMakeFiles/jackclib.dir/src/CodeGen.cpp.o CMakeFiles/jackclib.dir/src/Error.cpp.o CMakeFiles/jackclib.dir/src/HighLight.cpp.o CMakeFiles/jackclib.dir/src/Parser.cpp.o CMakeFiles/jackclib.dir/src/Scanner.cpp.o CMakeFiles/jackclib.dir/src/SymbolTable.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libjackclib.a

@@ -1,0 +1,144 @@
+function Main.main 3
+push constant 5
+call Array.new 1
+pop local 0
+push constant 0
+pop local 2
+label WHILE_EXP0
+push local 2
+push constant 5
+lt
+not
+if-goto WHILE_END0
+call Input.readLine 0
+pop local 1
+push local 2
+push local 0
+add
+push local 1
+call String.intValue 1
+pop temp 0
+pop pointer 1
+push temp 0
+pop that 0
+push local 2
+push constant 1
+add
+pop local 2
+goto WHILE_EXP0
+label WHILE_END0
+push local 0
+push constant 5
+call Main.bubble_sort 2
+pop temp 0
+push constant 0
+pop local 2
+label WHILE_EXP1
+push local 2
+push constant 5
+lt
+not
+if-goto WHILE_END1
+push local 2
+push local 0
+add
+pop pointer 1
+push that 0
+call Output.printInt 1
+pop temp 0
+call Output.println 0
+pop temp 0
+push local 2
+push constant 1
+add
+pop local 2
+goto WHILE_EXP1
+label WHILE_END1
+call Output.println 0
+pop temp 0
+push constant 0
+return
+function Main.bubble_sort 3
+push argument 1
+push constant 1
+sub
+pop local 0
+label WHILE_EXP2
+push local 0
+push constant 0
+gt
+push local 0
+push constant 0
+eq
+or
+not
+if-goto WHILE_END2
+push constant 0
+pop local 1
+label WHILE_EXP3
+push local 1
+push local 0
+lt
+not
+if-goto WHILE_END3
+push local 1
+push argument 0
+add
+pop pointer 1
+push that 0
+push local 1
+push constant 1
+add
+push argument 0
+add
+pop pointer 1
+push that 0
+gt
+if-goto IF_TRUE0
+goto IF_FALSE0
+label IF_TRUE0
+push local 1
+push argument 0
+add
+pop pointer 1
+push that 0
+pop local 2
+push local 1
+push argument 0
+add
+push local 1
+push constant 1
+add
+push argument 0
+add
+pop pointer 1
+push that 0
+pop temp 0
+pop pointer 1
+push temp 0
+pop that 0
+push local 1
+push constant 1
+add
+push argument 0
+add
+push local 2
+pop temp 0
+pop pointer 1
+push temp 0
+pop that 0
+label IF_FALSE0
+push local 1
+push constant 1
+add
+pop local 1
+goto WHILE_EXP3
+label WHILE_END3
+push local 0
+push constant 1
+sub
+pop local 0
+goto WHILE_EXP2
+label WHILE_END2
+push constant 0
+return

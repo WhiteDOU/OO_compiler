@@ -1,0 +1,1950 @@
+  class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+        subroutine_dec
+            basic_kind void
+            subroutine_body
+        var_dec
+          class_kind String
+                  call_statement
+                                                  var
+                                  class
+        subroutine_dec
+            basic_kind void
+            subroutine_body
+        var_dec
+          class_kind String
+                  call_statement
+                                                  var
+                                  class
+        subroutine_dec
+            basic_kind void
+            subroutine_body
+        var_dec
+          class_kind String
+                  call_statement
+                                                  var
+                                  class
+        subroutine_dec
+            basic_kind void
+            subroutine_body
+        var_dec
+          class_kind String
+                  call_statement
+                                                  var
+                                  class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                            class
+            subroutine_dec
+            basic_kind void
+            subroutine_body
+        return_statement
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          compare <
+            var
+                      assign
+            var
+                          var
+          assign
+            var
+            var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                    var
+                                var
+                                var
+                    var
+                    bool_expression |
+            compare ==
+              var
+                          compare ==
+              var
+                        return_statement
+                      var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        compare <
+            var
+                      if_statement
+            compare ==
+              bool_expression &
+                var
+                var
+              var
+            assign
+              var
+              operation +
+                var
+                var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression |
+            compare <
+              var
+                          compare >
+              var
+              var
+          return_statement
+                      var
+                                    var
+              var
+          var
+                                compare <
+            operation -
+              operation -
+                var
+                var
+              var
+            var
+          return_statement
+            operation +
+              var
+              var
+          return_statement
+            operation +
+              operation +
+                var
+                var
+                          basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                    basic_kind boolean
+                  assign
+          var
+                                var
+                                compare ==
+            var
+                      return_statement
+                                    var
+          compare ==
+            compare <
+              var
+                          compare <
+              var
+                        var
+                                bool_expression ~
+            var
+          assign
+            var
+                          var
+          var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                  if_statement
+          bool_expression &
+            compare >
+              var
+                          bool_expression |
+              compare <
+                var
+                              compare ==
+                var
+                          return_statement
+                      var
+                    var
+                    compare <
+            var
+            var
+          assign
+            var
+            operation +
+              var
+              var
+            var
+            operation +
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+                basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+          var
+          var
+                    compare ==
+            var
+                      return_statement
+                      compare >
+            var
+                      assign
+            var
+                                      var
+            operation -
+              var
+                        var
+            basic_kind int
+            param
+        basic_kind int
+              subroutine_body
+        var_dec
+          basic_kind int
+                    basic_kind int
+                  assign
+          var
+                    var
+                                var
+                                var
+          var
+          compare <
+            var
+                      return_statement
+                                    compare >
+            var
+                          

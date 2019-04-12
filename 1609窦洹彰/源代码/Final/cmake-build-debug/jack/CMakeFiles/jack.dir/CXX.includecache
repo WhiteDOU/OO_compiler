@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../jack/include/VM.h
+string
+-
+unordered_map
+-
+vector
+-
+
+/Users/white/Downloads/Final/jack/src/VM.cpp
+VM.h
+/Users/white/Downloads/Final/jack/src/VM.h
+cassert
+-
+fstream
+-
+iostream
+-
+sstream
+-
+
+/Users/white/Downloads/Final/jack/src/jack.cpp
+VM.h
+/Users/white/Downloads/Final/jack/src/VM.h
+cstdlib
+-
+fstream
+-
+iostream
+-
+vector
+-
+

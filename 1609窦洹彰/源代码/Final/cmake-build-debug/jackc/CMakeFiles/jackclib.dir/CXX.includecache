@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../jackc/include/Scanner.h
+deque
+-
+fstream
+-
+set
+-
+string
+-
+
+/Users/white/Downloads/Final/jackc/src/Scanner.cpp
+Scanner.h
+/Users/white/Downloads/Final/jackc/src/Scanner.h
+cassert
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+iterator
+-
+string
+-
+

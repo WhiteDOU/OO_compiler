@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="jack"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\jack\;CMake Files\jackc\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jack">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jack/jack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jack"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jack/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 jack"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jack/fast">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jack/jack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jack"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jack/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 jack/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jack/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jackc">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jackc/jackc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jackc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jackc/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 jackc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jackc/fast">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jackc/jackc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jackc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jackc/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 jackc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jackclib">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jackc/libjackclib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jackc"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jackc/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 jackclib"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jackclib/fast">
+				<Option output="/Users/white/Downloads/Final/cmake-build-debug/jackc/libjackclib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/white/Downloads/Final/cmake-build-debug/jackc"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/white/Downloads/Final/jackc/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 jackclib/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/white/Downloads/Final/cmake-build-debug/jackc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/white/Downloads/Final/jack/src/VM.cpp">
+			<Option target="jack"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jack/src/jack.cpp">
+			<Option target="jack"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/driver/jackc.cpp">
+			<Option target="jackc"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/include/HighLight.h">
+			<Option target="jackc"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/Analyzer.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/CodeGen.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/Error.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/HighLight.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/Parser.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/Scanner.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/src/SymbolTable.cpp">
+			<Option target="jackclib"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\jack\"/>
+		</Unit>
+		<Unit filename="/Users/white/Downloads/Final/jackc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\jackc\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

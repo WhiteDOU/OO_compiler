@@ -1,0 +1,40 @@
+class Main
+{
+	function void main()
+	{
+		int a, b, c;
+		String s;
+
+		s = Input.readLine();
+		a = s.intValue();
+
+		s = Input.readLine();
+		b = s.intValue();
+
+		c = Main.gcd(a, b);
+
+		Output.printInt(c);
+		Output.println();
+
+		return;
+	}
+
+	// 求最大公约数
+	function void star(int n)
+	{
+		if (b == 0)
+		    return;
+		else
+		{
+			for(int i=0;i<10;i++)
+			    for(int j=0;j<i;j++)
+			    {
+			        Output.printChar('*')
+			    }
+
+
+
+		}
+	}
+
+}

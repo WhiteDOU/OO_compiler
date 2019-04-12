@@ -1,0 +1,9 @@
+/Users/white/Downloads/Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/jack/CMakeFiles/rebuild_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/jack/CMakeFiles/edit_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/jack/CMakeFiles/jack.dir
+/Users/white/Downloads/Final/cmake-build-debug/jackc/CMakeFiles/rebuild_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/jackc/CMakeFiles/edit_cache.dir
+/Users/white/Downloads/Final/cmake-build-debug/jackc/CMakeFiles/jackc.dir
+/Users/white/Downloads/Final/cmake-build-debug/jackc/CMakeFiles/jackclib.dir
